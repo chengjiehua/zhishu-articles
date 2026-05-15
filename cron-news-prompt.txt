@@ -1,0 +1,1 @@
+执行 node C:\Users\cheng\.openclaw\workspace\articles\rss-collector.js，读取 hotspots.json。用 web_search 搜索 2-3 个最有新闻价值的 AI/科技话题获取详情。整理 3-5 条最有文章价值的新闻选题，每条附来源和关键数据。将结果保存为 JSON 到 C:\Users\cheng\.openclaw\workspace\articles\news-candidates.json。格式：{"collectedAt":"ISO时间","candidates":[{"title":"...","source":"36氪/HN/...","score":5,"keyData":"...","angle":"..."}]}

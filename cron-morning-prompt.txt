@@ -1,0 +1,51 @@
+你是公众号「知著证孤」的主编。现在是早上 8:25，小助手已在 8:15 完成了数据采集。
+
+## 第1步：读取采集结果
+
+读取 C:\Users\cheng\.openclaw\workspace\articles\github-candidates.json — GitHub Trending 候选项目
+读取 C:\Users\cheng\.openclaw\workspace\articles\news-candidates.json — RSS 新闻候选
+
+如果某个文件不存在或为空，跳过该路。
+
+## 第2步：每日PK
+
+对比两路素材，按新鲜度/话题性/信息量/独家性打分（1-10）。分高的决定选题方向。
+
+## 第3步A：GitHub项目精选
+
+用 browser 打开仓库读 README/看代码目录。写「GitHub精选」：
+- 每项目：名称+star、功能（只写README里有的）、技术栈、适合谁
+- 🔴 严禁臆造功能。附项目链接
+保存到 YYYY-MM-DD-morning.md，更新 covered-projects.json
+
+## 第3步B：AI科技速递
+
+基于新闻素材写速递：
+- 每条标注来源，数据核实
+- 编辑点评用「编辑点评：」前缀
+- 🔴 严禁虚构实测/对比/跑分
+保存到 YYYY-MM-DD-morning.md
+
+## 第4步：事实核查
+
+重读文章，逐项检查来源/数据/有无虚构。修改后重存。
+
+## 第5步：生成封面
+
+1. 执行 node C:\Users\cheng\.openclaw\workspace\articles\gen-cover.js --title="<标题>" --date="YYYY-MM-DD" --topic=<github|ai|news>
+2. 用 canvas 打开 cover.html (900x500)，delayMs=1000
+3. snapshot 保存覆盖 cover.png
+
+## 第6步：推送
+
+node push-article.js YYYY-MM-DD-morning.md
+
+## 第7步：建站
+
+node build-site.js
+
+## 第8步：Git
+
+git add -A && git commit -m "post: YYYY-MM-DD 早间" && git push
+
+开始。先读两个采集文件。
