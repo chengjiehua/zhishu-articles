@@ -1,1 +1,13 @@
-执行 node C:\Users\cheng\.openclaw\workspace\articles\rss-collector.js，读取 hotspots.json。用 web_search 搜索 2-3 个最有新闻价值的 AI/科技话题获取详情。整理 3-5 条最有文章价值的新闻选题，每条附来源和关键数据。将结果保存为 JSON 到 C:\Users\cheng\.openclaw\workspace\articles\news-candidates.json。格式：{"collectedAt":"ISO时间","candidates":[{"title":"...","source":"36氪/HN/...","score":5,"keyData":"...","angle":"..."}]}
+今天的日期是 {date}。用 web_search 搜索今天的 AI/科技新闻，每条搜索必须指定当天日期。找 3-5 条最值得写的真实新闻。
+
+🔴 核心红线：
+- 每条候选必须来自 web_search 的真实搜索结果，附来源名称和 URL
+- 如果搜索不到足够的新鲜新闻，返回空 candidates 列表，严禁编造
+- 严禁标注"(模拟)"或任何虚构标记
+- 候选中的 title、source、keyData 必须与搜索结果一致
+
+将结果保存为 JSON 到 C:\Users\cheng\.openclaw\workspace\articles\news-candidates.json。
+
+格式：{"collectedAt":"ISO时间","candidates":[{"title":"真实新闻标题","source":"信源名称","sourceUrl":"https://...","score":5,"keyData":"关键数字/数据","angle":"文章角度建议"}]}
+
+先执行 web_search 搜索今天的新闻，再整理候选。不要跳过搜索步骤。

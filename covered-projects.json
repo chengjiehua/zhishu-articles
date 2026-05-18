@@ -1,1 +1,26 @@
-﻿[]
+[
+  {
+    "repo": "microsoft/ai-agents-for-beginners",
+    "date": "2026-05-18",
+    "stars": 62616,
+    "title": "12 Lessons to Get Started Building AI Agents"
+  },
+  {
+    "repo": "NirDiamant/agents-towards-production",
+    "date": "2026-05-18",
+    "stars": 19959,
+    "title": "End-to-end, code-first tutorials for building production-grade GenAI agents"
+  },
+  {
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "date": "2026-05-18",
+    "stars": 15177,
+    "title": "Open-source alternative to AI video platforms — Free AI image & video generation studio"
+  },
+  {
+    "repo": "tech-leads-club/agent-skills",
+    "date": "2026-05-18",
+    "stars": 3582,
+    "title": "The secure, validated skill registry for professional AI coding agents"
+  }
+]
