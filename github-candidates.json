@@ -1,46 +1,35 @@
 {
-  "collectedAt": "2026-05-18T10:21:00+08:00",
-  "source": "GitHub Trending (github.com/trending)",
+  "collectedAt": "2026-05-19T08:15:00+08:00",
   "candidates": [
     {
-      "name": "oven-sh/bun",
-      "stars": 91716,
-      "starsToday": 910,
-      "language": "Rust",
-      "why": "极致快速的 JavaScript 全栈运行时，集打包器、测试运行器、包管理器于一体，Node.js 的直接替代品。今日 910 star，持续火爆。",
-      "url": "https://github.com/oven-sh/bun"
+      "name": "microsoft/ai-agents-for-beginners",
+      "stars": 63438,
+      "why": "微软官方出品，12 节课系统入门 AI Agent 构建，当日 +1,012 stars，AI 智能体学习首选课程",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 36610,
+      "why": "「让所有软件变成 Agent-Native」——自动为任意代码库生成 CLI 接口，已支持 Blender/GIMP/OBS/Godo 等数十款软件，当日 +1,049 stars",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "stars": 20546,
+      "why": "构建真正能交付生产客户的 LLM 应用的 12 要素设计原则，AI 工程化方法论级文档",
+      "url": "https://github.com/humanlayer/12-factor-agents"
     },
     {
       "name": "tinyhumansai/openhuman",
-      "stars": 13245,
-      "starsToday": 1690,
-      "language": "Rust",
-      "why": "开源个人 AI 超级智能桌面助手——隐私优先、UI 友好、118+ OAuth 集成、本地记忆树 + Obsidian Wiki，今日暴涨 1,690 star 排名榜首。",
+      "stars": 16727,
+      "why": "开源个人 AI 超级智能助手，主打隐私保护、简单且极其强大，当日 GitHub Trending 榜首",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
-      "name": "KeygraphHQ/shannon",
-      "stars": 42713,
-      "starsToday": 200,
-      "language": "TypeScript",
-      "why": "白盒自主 AI 渗透测试工具——分析源码、识别攻击向量、执行真实漏洞利用，在代码上线前证明安全问题。安全领域热门项目。",
-      "url": "https://github.com/KeygraphHQ/shannon"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "stars": 23819,
-      "starsToday": 762,
-      "language": "Python",
-      "why": "面向科研、工程、分析、金融与写作的即用型 AI Agent Skills 集合，今日 762 star，Agent 技能生态核心基础设施。",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "stars": 15107,
-      "starsToday": 703,
-      "language": "JavaScript",
-      "why": "开源 AI 图像与视频生成工作室，支持 200+ 模型（Flux/Midjourney/Kling/Sora/Veo），无内容审查、自托管、MIT 协议，今日 703 star。",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+      "name": "CloakHQ/CloakBrowser",
+      "stars": 15190,
+      "why": "隐身 Chromium 浏览器，通过所有 30/30 bot 检测测试，Playwright 无缝替换，当日 +1,420 stars 增长最快",
+      "url": "https://github.com/CloakHQ/CloakBrowser"
     }
   ]
 }

@@ -1,46 +1,45 @@
 {
-  "collectedAt": "2026-05-17T21:50:00+08:00",
-  "method": "manual-web_search-verified",
+  "collectedAt": "2026-05-19T08:17:00+08:00",
   "candidates": [
     {
-      "title": "Musk vs OpenAI 世纪审判进入陪审团审议",
-      "source": "NYT / AP News / Al Jazeera / The Guardian",
-      "sourceUrl": "https://apnews.com/article/musk-sam-altman-openai-trial-closing-arguments-3bda5ebbec28c23ac9e481a4edcad725",
+      "title": "Google I/O 2026 Kicks Off: New Gemini Model, Veo Video AI, and Android XR Expected",
+      "source": "Mashable",
+      "sourceUrl": "https://mashable.com/article/google-io-2026-what-to-expect",
       "score": 5,
-      "keyData": "结案陈词5月14日结束，案件交陪审团；Altman 指控 Musk 曾要求90%股权",
-      "angle": "审判结果对AI行业治理模式的深远影响"
+      "keyData": "May 19-20双日大会；预计发布新版Gemini模型（被记者Alex Heath称为"让外界震惊"的版本）、Veo视频生成AI升级、Android XR平台、Android 17",
+      "angle": "Google年度开发者大会首日，AI成为绝对主角。可从Gemini新版本对标OpenAI/Anthropic竞争格局切入，重点关注"AI融入Android生态"对普通用户的影响"
     },
     {
-      "title": "Cerebras Systems IPO：年度最大科技股上市，首日暴涨68%",
-      "source": "NYT / Bloomberg / CNBC",
-      "sourceUrl": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+      "title": "Pope Leo XIV to Publish First Encyclical 'Magnifica Humanitas' on Artificial Intelligence May 25",
+      "source": "OSV News / NWCatholic",
+      "sourceUrl": "https://nwcatholic.org/news/courtney-mares-osv-news/pope-leo-xiv-to-publish-encyclical-on-artificial-intelligence-may-25",
       "score": 5,
-      "keyData": "融资55.5亿美元，IPO价$185，开盘$350，收$311.07，市值~$950亿",
-      "angle": "AI芯片赛道从NVIDIA一家独大到多极竞争"
+      "keyData": "5月18日宣布，5月25日发布；教宗将亲自出席发布会，并与一家全球领先AI公司的创始人同台；通谕将涉及AI在战争中的使用、工人权利、人类尊严保护",
+      "angle": "历史上首份专门针对AI的教宗通谕。教宗不仅是精神领袖，还被TIME列入2025年AI最具影响力人物。可从"宗教权威如何定义AI伦理边界"切入，探讨科技与信仰的碰撞"
     },
     {
-      "title": "Cisco创纪录营收当天宣布裁员4000人，全面押注AI",
-      "source": "TechCrunch / Ars Technica / Reuters",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "title": "Anthropic in Talks to Raise $30 Billion at $900 Billion Valuation",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation",
+      "score": 5,
+      "keyData": "$300亿融资轮，$9000亿估值；Dragoneer、Greenoaks、Sequoia Capital、Altimeter Capital联合领投；Google已承诺最高$400亿投资",
+      "angle": "Anthropic估值直奔万亿俱乐部，AI军备竞赛进入新阶段。可从Claude与OpenAI、Google Gemini的三强争霸切入，关注"天价融资背后AI基建成本与回报的平衡""
+    },
+    {
+      "title": "Cerebras Systems Soars 68% in Nasdaq Debut — Biggest U.S. Tech IPO Since 2019",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
+      "score": 5,
+      "keyData": "IPO定价$185/股，收盘$311.07（+68%）；募资$55.5亿；市值突破$1000亿；AI推理效率可达Nvidia GPU的10-20倍",
+      "angle": "AI芯片赛道迎来新玩家。Cerebras的晶圆级引擎(Wafer-Scale Engine)技术路线独特，直接挑战Nvidia。可从"AI芯片市场是否终于迎来真正的竞争者"切入"
+    },
+    {
+      "title": "U.S. Clears Nvidia H200 AI Chip Sales to 10 Chinese Firms After Trump-Xi Summit",
+      "source": "CNBC / Reuters",
+      "sourceUrl": "https://www.cnbc.com/2026/05/14/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough.html",
       "score": 4,
-      "keyData": "季度营收$158亿(+12% YoY)；裁员~4000人(5%)；FY2026 AI订单$90亿",
-      "angle": "「创纪录+裁员投AI」成为2026科技巨头标配"
-    },
-    {
-      "title": "GPT-5.5-Cyber与Claude Mythos：AI网络安全军备竞赛升级",
-      "source": "Politico / CNBC / The Verge",
-      "sourceUrl": "https://www.politico.com/news/2026/05/07/openai-chatgpt-cyber-ai-model-00910704",
-      "score": 4,
-      "keyData": "GPT-5.5-Cyber仅限审核团队；Mythos发现数十年未被发现的零日漏洞；白宫讨论发布前审查",
-      "angle": "AI模型正在获得类似核技术的管制待遇"
-    },
-    {
-      "title": "xAI发布Grok Build编程Agent，AI编程赛道趋于饱和",
-      "source": "Android Headlines / Engadget / PCMag",
-      "sourceUrl": "https://www.androidheadlines.com/2026/05/xai-grok-build-agentic-ai-coding-tool-launch-beta.html",
-      "score": 3,
-      "keyData": "早期beta，SuperGrok Heavy $300/月；Musk承认xAI编程能力落后",
-      "angle": "AI编程赛道从蓝海变红海"
+      "keyData": "约10家中国科技企业获批购买H200芯片；特朗普-习近平峰会后政策松动；Nvidia CEO寻求对华芯片销售突破",
+      "angle": "中美AI芯片博弈出现转机。可从"峰会外交如何影响科技脱钩""切入，分析H200解禁对中国AI产业的实际影响与局限"
     }
   ]
 }

@@ -6,6 +6,24 @@
     "title": "12 Lessons to Get Started Building AI Agents"
   },
   {
+    "repo": "microsoft/ai-agents-for-beginners",
+    "date": "2026-05-19",
+    "stars": 63438,
+    "title": "12 Lessons to Get Started Building AI Agents"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "date": "2026-05-19",
+    "stars": 36610,
+    "title": "Make ALL Software Agent-Native — Auto-generate CLI interfaces for any codebase"
+  },
+  {
+    "repo": "humanlayer/12-factor-agents",
+    "date": "2026-05-19",
+    "stars": 20546,
+    "title": "12-factor design principles for production-grade LLM applications"
+  },
+  {
     "repo": "NirDiamant/agents-towards-production",
     "date": "2026-05-18",
     "stars": 19959,
