@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-19T08:17:00+08:00",
+  "collectedAt": "2026-05-20T08:17:00+08:00",
   "candidates": [
     {
-      "title": "Google I/O 2026 Kicks Off: New Gemini Model, Veo Video AI, and Android XR Expected",
-      "source": "Mashable",
-      "sourceUrl": "https://mashable.com/article/google-io-2026-what-to-expect",
+      "title": "Google I/O 2026 Keynote: Gemini Omni, AI Smart Glasses, and AI Agents in Search",
+      "source": "CNET",
+      "sourceUrl": "https://www.cnet.com/news-live/google-io-2026-live-news-updates/",
       "score": 5,
-      "keyData": "May 19-20双日大会；预计发布新版Gemini模型（被记者Alex Heath称为"让外界震惊"的版本）、Veo视频生成AI升级、Android XR平台、Android 17",
-      "angle": "Google年度开发者大会首日，AI成为绝对主角。可从Gemini新版本对标OpenAI/Anthropic竞争格局切入，重点关注"AI融入Android生态"对普通用户的影响"
+      "keyData": "Gemini Omni: video/image generation and editing; Android XR smart glasses (Samsung/Gentle Monster/Warby Parker, launching fall 2026); Project Aura advanced AR glasses; Google Pics image tool; Universal Cart AI shopping; Search AI agents; Google Stitch (100M+ UI screens generated); Gemini Spark proactive features; Gemini for Science; Googlebook laptops",
+      "angle": "Google I/O 2026 was the company's most AI-dense keynote in a decade—从视频生成(Gemini Omni)到智能眼镜到AI购物车,Google正在AI全栈布局上全面加速,值得系统盘点"
     },
     {
-      "title": "Pope Leo XIV to Publish First Encyclical 'Magnifica Humanitas' on Artificial Intelligence May 25",
-      "source": "OSV News / NWCatholic",
-      "sourceUrl": "https://nwcatholic.org/news/courtney-mares-osv-news/pope-leo-xiv-to-publish-encyclical-on-artificial-intelligence-may-25",
+      "title": "Meta Begins 8,000 Layoffs Today as Zuckerberg Doubles Down on AI Pivot",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/meta-lays-out-plans-may-20-layoffs-restructuring-internal-document-says-2026-05-18/",
       "score": 5,
-      "keyData": "5月18日宣布，5月25日发布；教宗将亲自出席发布会，并与一家全球领先AI公司的创始人同台；通谕将涉及AI在战争中的使用、工人权利、人类尊严保护",
-      "angle": "历史上首份专门针对AI的教宗通谕。教宗不仅是精神领袖，还被TIME列入2025年AI最具影响力人物。可从"宗教权威如何定义AI伦理边界"切入，探讨科技与信仰的碰撞"
+      "keyData": "May 20 first wave: 8,000 employees (10% workforce); total 2026 cuts up to 16,000; 7,000 employees reassigned to AI groups; $135B annual AI capex; follows 21,000 layoffs in 2022-23 'year of efficiency'",
+      "angle": "Meta裁员第一天：这是2026年最大规模的AI驱动重组事件。分析AI投资与人力成本之间的博弈,以及Zuckerberg的'效率年2.0'与2023年有何不同"
     },
     {
-      "title": "Anthropic in Talks to Raise $30 Billion at $900 Billion Valuation",
+      "title": "Nvidia CEO: China Will Open Its Market to AI Chips From the US",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation",
-      "score": 5,
-      "keyData": "$300亿融资轮，$9000亿估值；Dragoneer、Greenoaks、Sequoia Capital、Altimeter Capital联合领投；Google已承诺最高$400亿投资",
-      "angle": "Anthropic估值直奔万亿俱乐部，AI军备竞赛进入新阶段。可从Claude与OpenAI、Google Gemini的三强争霸切入，关注"天价融资背后AI基建成本与回报的平衡""
-    },
-    {
-      "title": "Cerebras Systems Soars 68% in Nasdaq Debut — Biggest U.S. Tech IPO Since 2019",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
-      "score": 5,
-      "keyData": "IPO定价$185/股，收盘$311.07（+68%）；募资$55.5亿；市值突破$1000亿；AI推理效率可达Nvidia GPU的10-20倍",
-      "angle": "AI芯片赛道迎来新玩家。Cerebras的晶圆级引擎(Wafer-Scale Engine)技术路线独特，直接挑战Nvidia。可从"AI芯片市场是否终于迎来真正的竞争者"切入"
-    },
-    {
-      "title": "U.S. Clears Nvidia H200 AI Chip Sales to 10 Chinese Firms After Trump-Xi Summit",
-      "source": "CNBC / Reuters",
-      "sourceUrl": "https://www.cnbc.com/2026/05/14/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough.html",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
       "score": 4,
-      "keyData": "约10家中国科技企业获批购买H200芯片；特朗普-习近平峰会后政策松动；Nvidia CEO寻求对华芯片销售突破",
-      "angle": "中美AI芯片博弈出现转机。可从"峰会外交如何影响科技脱钩""切入，分析H200解禁对中国AI产业的实际影响与局限"
+      "keyData": "Jensen Huang spoke at Dell Technologies World (May 18); days after Trump-Xi summit; Huang: 'over time the market will open'; Nvidia's China market share previously reported near 0% due to export controls",
+      "angle": "黄仁勋在中美芯片博弈中的乐观表态——这是基于外交信号的谨慎乐观,还是纯粹的市场预期管理?结合Nvidia即将发布的财报分析"
+    },
+    {
+      "title": "Analog Devices in Talks to Acquire AI Chip Startup Empower Semiconductor for $1.5 Billion",
+      "source": "Bloomberg (via Reuters)",
+      "sourceUrl": "https://kelo.com/2026/05/18/analog-devices-in-talks-to-buy-empower-semiconductor-for-1-5-billion-bloomberg-news-reports/",
+      "score": 4,
+      "keyData": "$1.5B all-cash deal; Empower Semiconductor makes voltage-regulating chips for AI processors and data centers; Silicon Valley-based; deal could be announced as soon as Tuesday (May 19-20); surge in data center infrastructure investment for generative AI workloads",
+      "angle": "AI芯片并购热潮延续:电源管理芯片成为数据中心基础设施的稀缺资源,Analog Devices的这笔收购反映了AI产业链向上游延伸的趋势"
+    },
+    {
+      "title": "AI Layoffs Create a 'Growing Tribe of Jobless' in Silicon Valley — Cloudflare Cuts 1,000+ Workers, Cites AI",
+      "source": "Los Angeles Times",
+      "sourceUrl": "https://www.latimes.com/business/story/2026-05-19/ai-layoffs-jobless-tech-workers-silicon-valley",
+      "score": 3,
+      "keyData": "Cloudflare laid off 1,000+ workers citing AI; Meta 8,000 cuts starting May 20; Microsoft layoffs; Block cut half its staff (4,000+); growing pattern of 'efficiency restructuring' across tech sector driven by AI investment",
+      "angle": "硅谷正在经历AI驱动的结构性失业——从Meta/Cloudflare到Block/Microsoft,这不是周期性问题而是技术替代。可以与本周Meta裁员组合成一篇深度分析"
     }
   ]
 }

@@ -1,35 +1,40 @@
 {
-  "collectedAt": "2026-05-19T08:15:00+08:00",
+  "collectedAt": "2026-05-20T08:15:00+08:00",
   "candidates": [
     {
-      "name": "microsoft/ai-agents-for-beginners",
-      "stars": 63438,
-      "why": "微软官方出品，12 节课系统入门 AI Agent 构建，当日 +1,012 stars，AI 智能体学习首选课程",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners"
+      "name": "Imbad0202/academic-research-skills",
+      "stars": 14095,
+      "starsToday": 3164,
+      "why": "Claude Code 学术研究技能集：研究→写作→审阅→修改→定稿的完整学术流水线，今日新增 3164 星，全天最热",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
-      "name": "HKUDS/CLI-Anything",
-      "stars": 36610,
-      "why": "「让所有软件变成 Agent-Native」——自动为任意代码库生成 CLI 接口，已支持 Blender/GIMP/OBS/Godo 等数十款软件，当日 +1,049 stars",
-      "url": "https://github.com/HKUDS/CLI-Anything"
+      "name": "colbymchenry/codegraph",
+      "stars": 6566,
+      "starsToday": 1850,
+      "why": "预索引代码知识图谱，兼容 Claude Code/Codex/Cursor/OpenCode，减少 token 消耗和工具调用，100% 本地运行",
+      "url": "https://github.com/colbymchenry/codegraph"
     },
     {
-      "name": "humanlayer/12-factor-agents",
-      "stars": 20546,
-      "why": "构建真正能交付生产客户的 LLM 应用的 12 要素设计原则，AI 工程化方法论级文档",
-      "url": "https://github.com/humanlayer/12-factor-agents"
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "stars": 16727,
-      "why": "开源个人 AI 超级智能助手，主打隐私保护、简单且极其强大，当日 GitHub Trending 榜首",
-      "url": "https://github.com/tinyhumansai/openhuman"
+      "name": "rohitg00/agentmemory",
+      "stars": 14124,
+      "starsToday": 1609,
+      "why": "AI 编程 Agent 持久化记忆方案，基于真实基准测试排名第一，解决 Agent 上下文中断后遗忘的问题",
+      "url": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "CloakHQ/CloakBrowser",
-      "stars": 15190,
-      "why": "隐身 Chromium 浏览器，通过所有 30/30 bot 检测测试，Playwright 无缝替换，当日 +1,420 stars 增长最快",
+      "stars": 16561,
+      "starsToday": 1463,
+      "why": "隐身 Chromium 浏览器，通过所有机器人检测测试（30/30），可作为 Playwright 的即插即用替代品",
       "url": "https://github.com/CloakHQ/CloakBrowser"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 37690,
+      "starsToday": 1038,
+      "why": "让所有软件 Agent-Native 的 CLI 框架，由港大数据科学实验室出品，累计 3.7 万星",
+      "url": "https://github.com/HKUDS/CLI-Anything"
     }
   ]
 }

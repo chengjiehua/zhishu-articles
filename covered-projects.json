@@ -40,5 +40,29 @@
     "date": "2026-05-18",
     "stars": 3582,
     "title": "The secure, validated skill registry for professional AI coding agents"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills",
+    "date": "2026-05-20",
+    "stars": 14095,
+    "title": "Claude Code 学术研究全流程技能：研究→写作→审阅→修改→定稿"
+  },
+  {
+    "repo": "colbymchenry/codegraph",
+    "date": "2026-05-20",
+    "stars": 6566,
+    "title": "预索引代码知识图谱，减少 AI Agent token 消耗和工具调用"
+  },
+  {
+    "repo": "rohitg00/agentmemory",
+    "date": "2026-05-20",
+    "stars": 14124,
+    "title": "AI 编程 Agent 持久化记忆方案，基于真实基准测试排名第一"
+  },
+  {
+    "repo": "CloakHQ/CloakBrowser",
+    "date": "2026-05-20",
+    "stars": 16561,
+    "title": "隐身 Chromium 浏览器，C++ 源码级指纹修改，通过所有机器人检测"
   }
 ]
