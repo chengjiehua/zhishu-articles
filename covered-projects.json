@@ -43,26 +43,32 @@
   },
   {
     "repo": "Imbad0202/academic-research-skills",
-    "date": "2026-05-20",
-    "stars": 14095,
-    "title": "Claude Code 学术研究全流程技能：研究→写作→审阅→修改→定稿"
+    "date": "2026-05-21",
+    "stars": 16130,
+    "title": "Claude Code 学术研究全流程技能 v3.9.4.2：研究→写作→审阅→修改→定稿"
   },
   {
     "repo": "colbymchenry/codegraph",
-    "date": "2026-05-20",
-    "stars": 6566,
-    "title": "预索引代码知识图谱，减少 AI Agent token 消耗和工具调用"
+    "date": "2026-05-21",
+    "stars": 9463,
+    "title": "预索引代码知识图谱，减少 AI Agent 35% 成本 + 70% 工具调用，100% 本地"
   },
   {
     "repo": "rohitg00/agentmemory",
-    "date": "2026-05-20",
-    "stars": 14124,
-    "title": "AI 编程 Agent 持久化记忆方案，基于真实基准测试排名第一"
+    "date": "2026-05-21",
+    "stars": 15116,
+    "title": "#1 AI 编程 Agent 持久化记忆方案，基于 iii 引擎，全平台 Agent 兼容"
   },
   {
     "repo": "CloakHQ/CloakBrowser",
     "date": "2026-05-20",
     "stars": 16561,
     "title": "隐身 Chromium 浏览器，C++ 源码级指纹修改，通过所有机器人检测"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "date": "2026-05-21",
+    "stars": 9527,
+    "title": "AI 工程从零到一实战教程：435 节课 20 阶段，从数学到自主群体"
   }
 ]

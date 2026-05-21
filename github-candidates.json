@@ -1,40 +1,35 @@
 {
-  "collectedAt": "2026-05-20T08:15:00+08:00",
+  "collectedAt": "2026-05-21T00:16:00.000Z",
   "candidates": [
     {
-      "name": "Imbad0202/academic-research-skills",
-      "stars": 14095,
-      "starsToday": 3164,
-      "why": "Claude Code 学术研究技能集：研究→写作→审阅→修改→定稿的完整学术流水线，今日新增 3164 星，全天最热",
-      "url": "https://github.com/Imbad0202/academic-research-skills"
-    },
-    {
       "name": "colbymchenry/codegraph",
-      "stars": 6566,
-      "starsToday": 1850,
-      "why": "预索引代码知识图谱，兼容 Claude Code/Codex/Cursor/OpenCode，减少 token 消耗和工具调用，100% 本地运行",
+      "stars": 9463,
+      "why": "预索引代码知识图谱，专为 Claude Code / Codex / Cursor / OpenCode 打造——减少 token 消耗和 tool call 次数，100% 本地运行，今日新增 2,123 star 领跑全场",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
+      "name": "Imbad0202/academic-research-skills",
+      "stars": 16130,
+      "why": "面向 Claude Code 的学术研究全流程技能包，覆盖 研究→写作→审阅→修订→定稿 全链条，今日 +1,667 star",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
       "name": "rohitg00/agentmemory",
-      "stars": 14124,
-      "starsToday": 1609,
-      "why": "AI 编程 Agent 持久化记忆方案，基于真实基准测试排名第一，解决 Agent 上下文中断后遗忘的问题",
+      "stars": 15116,
+      "why": "AI 编程 Agent 持久化记忆方案，基于真实基准测试排名第一，今日 +1,080 star",
       "url": "https://github.com/rohitg00/agentmemory"
     },
     {
-      "name": "CloakHQ/CloakBrowser",
-      "stars": 16561,
-      "starsToday": 1463,
-      "why": "隐身 Chromium 浏览器，通过所有机器人检测测试（30/30），可作为 Playwright 的即插即用替代品",
-      "url": "https://github.com/CloakHQ/CloakBrowser"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 9527,
+      "why": "AI 工程从零到一实战教程——学习、构建、发布一条龙，今日 +765 star",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
-      "name": "HKUDS/CLI-Anything",
-      "stars": 37690,
-      "starsToday": 1038,
-      "why": "让所有软件 Agent-Native 的 CLI 框架，由港大数据科学实验室出品，累计 3.7 万星",
-      "url": "https://github.com/HKUDS/CLI-Anything"
+      "name": "rmyndharis/OpenWA",
+      "stars": 4849,
+      "why": "免费开源自托管 WhatsApp API 网关，零依赖第三方服务的 WhatsApp 接入方案，今日 +741 star",
+      "url": "https://github.com/rmyndharis/OpenWA"
     }
   ]
 }

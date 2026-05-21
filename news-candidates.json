@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-20T08:17:00+08:00",
+  "collectedAt": "2026-05-21T00:17:00.000Z",
   "candidates": [
     {
-      "title": "Google I/O 2026 Keynote: Gemini Omni, AI Smart Glasses, and AI Agents in Search",
-      "source": "CNET",
-      "sourceUrl": "https://www.cnet.com/news-live/google-io-2026-live-news-updates/",
+      "title": "Nvidia Earnings Beat Expectations, Unveils $80 Billion Share Buyback",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/spacex-files-long-awaited-ipo-creating-a-fresh-ai-play-4702657",
       "score": 5,
-      "keyData": "Gemini Omni: video/image generation and editing; Android XR smart glasses (Samsung/Gentle Monster/Warby Parker, launching fall 2026); Project Aura advanced AR glasses; Google Pics image tool; Universal Cart AI shopping; Search AI agents; Google Stitch (100M+ UI screens generated); Gemini Spark proactive features; Gemini for Science; Googlebook laptops",
-      "angle": "Google I/O 2026 was the company's most AI-dense keynote in a decade—从视频生成(Gemini Omni)到智能眼镜到AI购物车,Google正在AI全栈布局上全面加速,值得系统盘点"
+      "keyData": "Nvidia Q1 2027 财季业绩超预期; 宣布 800 亿美元股票回购计划; AI 芯片需求持续井喷",
+      "angle": "Nvidia 依然是 AI 基础设施的绝对霸主，业绩与回购双利好表明管理层对 AI 需求持续性极度自信。可结合 Jensen Huang 近期演讲谈 AI 算力未来。"
     },
     {
-      "title": "Meta Begins 8,000 Layoffs Today as Zuckerberg Doubles Down on AI Pivot",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/meta-lays-out-plans-may-20-layoffs-restructuring-internal-document-says-2026-05-18/",
+      "title": "Google I/O 2026: Gemini Spark 个人 AI 代理、Gemini 3.5 Flash 模型、Samsung 智能眼镜齐发",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/google-io-gemini-developers-conference-a984e6756032dc4af260f8fa27e8f4a9",
       "score": 5,
-      "keyData": "May 20 first wave: 8,000 employees (10% workforce); total 2026 cuts up to 16,000; 7,000 employees reassigned to AI groups; $135B annual AI capex; follows 21,000 layoffs in 2022-23 'year of efficiency'",
-      "angle": "Meta裁员第一天：这是2026年最大规模的AI驱动重组事件。分析AI投资与人力成本之间的博弈,以及Zuckerberg的'效率年2.0'与2023年有何不同"
+      "keyData": "Gemini 3.5 Flash（前沿智能+行动能力）; Gemini Spark（24/7 个人 AI 代理，下周上线 Ultra 订阅）; Gemini Omni 世界模型; Samsung Intelligent Eyewear 智能眼镜（今秋上市）; Google AI Ultra 计划定价 $100/月",
+      "angle": "Google I/O 2026 是 Google 史上最具野心的 AI 发布会。Gemini Spark 标志着 AI 从「对话工具」到「自主代理」的范式转变。可与 Apple、Meta 的 AI 策略做对比分析。"
     },
     {
-      "title": "Nvidia CEO: China Will Open Its Market to AI Chips From the US",
+      "title": "SpaceX 正式提交 IPO 申请，披露巨额 AI 基础设施支出",
+      "source": "The Economic Times / Reuters",
+      "sourceUrl": "https://m.economictimes.com/news/international/us/spacex-ipo-filing-massive-ai-spending-future-ambitions-and-starlink-expansion-will-spacexs-awaited-ipo-make-elon-musk-the-worlds-first-trillionaire/amp_articleshow/131237585.cms",
+      "score": 5,
+      "keyData": "SpaceX 已与 xAI 合并; 目标估值 $1.75 万亿; IPO 文件揭示大规模 AI 与 Starlink 支出; Musk 有望成为全球首位万亿富翁",
+      "angle": "SpaceX IPO 是 2026 年资本市场最大事件。文件首次公开 SpaceX-AI 融合战略的全貌，从 GPU 租赁交易到 Starlink+AI 协同，是理解 Musk 帝国 AI 布局的关键窗口。"
+    },
+    {
+      "title": "GPT-5.5 和 Claude Mythos 双双突破 AI 自主网络攻击基准，英国 AI 安全研究所确认",
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/",
+      "score": 4,
+      "keyData": "GPT-5.5 在专家级网络任务得分 71.4%; Claude Mythos 得分 68.6%; 两个模型均完成端到端自主网络攻击模拟; UK AISI 确认两者均远超 2024 年以来的翻倍增长趋势",
+      "angle": "AI 安全进入新纪元——前沿模型已具备真实自主攻击能力。OpenAI 推出 Daybreak 计划应对，白宫召集 AI 公司讨论管控方案。可从 AI 治理与国家安全交叉点切入。"
+    },
+    {
+      "title": "Meta 在路易斯安那州建造全球最大 AI 数据中心之一",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/bloomberg-tech-5-20-2026-video",
       "score": 4,
-      "keyData": "Jensen Huang spoke at Dell Technologies World (May 18); days after Trump-Xi summit; Huang: 'over time the market will open'; Nvidia's China market share previously reported near 0% due to export controls",
-      "angle": "黄仁勋在中美芯片博弈中的乐观表态——这是基于外交信号的谨慎乐观,还是纯粹的市场预期管理?结合Nvidia即将发布的财报分析"
-    },
-    {
-      "title": "Analog Devices in Talks to Acquire AI Chip Startup Empower Semiconductor for $1.5 Billion",
-      "source": "Bloomberg (via Reuters)",
-      "sourceUrl": "https://kelo.com/2026/05/18/analog-devices-in-talks-to-buy-empower-semiconductor-for-1-5-billion-bloomberg-news-reports/",
-      "score": 4,
-      "keyData": "$1.5B all-cash deal; Empower Semiconductor makes voltage-regulating chips for AI processors and data centers; Silicon Valley-based; deal could be announced as soon as Tuesday (May 19-20); surge in data center infrastructure investment for generative AI workloads",
-      "angle": "AI芯片并购热潮延续:电源管理芯片成为数据中心基础设施的稀缺资源,Analog Devices的这笔收购反映了AI产业链向上游延伸的趋势"
-    },
-    {
-      "title": "AI Layoffs Create a 'Growing Tribe of Jobless' in Silicon Valley — Cloudflare Cuts 1,000+ Workers, Cites AI",
-      "source": "Los Angeles Times",
-      "sourceUrl": "https://www.latimes.com/business/story/2026-05-19/ai-layoffs-jobless-tech-workers-silicon-valley",
-      "score": 3,
-      "keyData": "Cloudflare laid off 1,000+ workers citing AI; Meta 8,000 cuts starting May 20; Microsoft layoffs; Block cut half its staff (4,000+); growing pattern of 'efficiency restructuring' across tech sector driven by AI investment",
-      "angle": "硅谷正在经历AI驱动的结构性失业——从Meta/Cloudflare到Block/Microsoft,这不是周期性问题而是技术替代。可以与本周Meta裁员组合成一篇深度分析"
+      "keyData": "Meta 计划裁员 8,000 人（全球员工 10%）以增加 AI 投资; 同时在 Louisiana 建设世界级 AI 设施",
+      "angle": "Meta 的 AI 转型呈现「此消彼长」格局——一边裁员削减成本，一边重金投入 AI 基建。可与 Google、Microsoft 的 AI CapEx 竞赛做横向对比，分析科技巨头 AI 军备竞赛的可持续性。"
     }
   ]
 }
