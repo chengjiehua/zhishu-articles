@@ -49,8 +49,8 @@
   },
   {
     "repo": "colbymchenry/codegraph",
-    "date": "2026-05-21",
-    "stars": 9463,
+    "date": "2026-05-22",
+    "stars": 13051,
     "title": "预索引代码知识图谱，减少 AI Agent 35% 成本 + 70% 工具调用，100% 本地"
   },
   {
@@ -70,5 +70,29 @@
     "date": "2026-05-21",
     "stars": 9527,
     "title": "AI 工程从零到一实战教程：435 节课 20 阶段，从数学到自主群体"
+  },
+  {
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "date": "2026-05-22",
+    "stars": 142923,
+    "title": "Karpathy LLM 编码观察提炼为单文件指令，Claude Code 行为改善"
+  },
+  {
+    "repo": "anthropics/claude-plugins-official",
+    "date": "2026-05-22",
+    "stars": 22112,
+    "title": "Anthropic 官方 Claude Code 插件市场，汇集高质量社区插件"
+  },
+  {
+    "repo": "dotnet/skills",
+    "date": "2026-05-22",
+    "stars": 2147,
+    "title": "微软 .NET 团队 AI 编码代理技能集，覆盖 ASP.NET/EF/MAUI 等场景"
+  },
+  {
+    "repo": "antoinezambelli/forge",
+    "date": "2026-05-22",
+    "stars": 1474,
+    "title": "Python 自托管 LLM 工具调用可靠性层，8B 本地模型达 86.5% 准确率"
   }
 ]

@@ -1,35 +1,35 @@
 {
-  "collectedAt": "2026-05-21T00:16:00.000Z",
+  "collectedAt": "2026-05-22T00:15:00.000Z",
   "candidates": [
     {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "stars": 142923,
+      "why": "将 Andrej Karpathy 对 LLM 编码陷阱的观察提炼为单个 CLAUDE.md 文件，显著改善 Claude Code 行为——减少过度抽象、死代码、不必要的复杂性",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "stars": 22112,
+      "why": "Anthropic 官方维护的 Claude Code 插件市场，汇集高质量社区插件，支持一键安装，覆盖 GitHub、Figma、Context7 等主流工具集成",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
       "name": "colbymchenry/codegraph",
-      "stars": 9463,
-      "why": "预索引代码知识图谱，专为 Claude Code / Codex / Cursor / OpenCode 打造——减少 token 消耗和 tool call 次数，100% 本地运行，今日新增 2,123 star 领跑全场",
+      "stars": 13051,
+      "why": "预索引的代码知识图谱，为 Claude Code/Codex/Cursor/OpenCode 提供零文件读取的代码探索能力——25,874 文件的项目 4 分钟内完成索引，6 次 explore 调用替代数百次文件读取",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
-      "name": "Imbad0202/academic-research-skills",
-      "stars": 16130,
-      "why": "面向 Claude Code 的学术研究全流程技能包，覆盖 研究→写作→审阅→修订→定稿 全链条，今日 +1,667 star",
-      "url": "https://github.com/Imbad0202/academic-research-skills"
+      "name": "dotnet/skills",
+      "stars": 2147,
+      "why": "微软 .NET 团队官方出品的 AI 编码代理技能集，为 .NET 开发者提供 ASP.NET Core、Entity Framework、MAUI 等场景的标准化代理指令",
+      "url": "https://github.com/dotnet/skills"
     },
     {
-      "name": "rohitg00/agentmemory",
-      "stars": 15116,
-      "why": "AI 编程 Agent 持久化记忆方案，基于真实基准测试排名第一，今日 +1,080 star",
-      "url": "https://github.com/rohitg00/agentmemory"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "stars": 9527,
-      "why": "AI 工程从零到一实战教程——学习、构建、发布一条龙，今日 +765 star",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-    },
-    {
-      "name": "rmyndharis/OpenWA",
-      "stars": 4849,
-      "why": "免费开源自托管 WhatsApp API 网关，零依赖第三方服务的 WhatsApp 接入方案，今日 +741 star",
-      "url": "https://github.com/rmyndharis/OpenWA"
+      "name": "antoinezambelli/forge",
+      "stars": 1474,
+      "why": "Python 自托管 LLM 工具调用与多步代理工作流框架，今日增长 449 星势头强劲，附带 IEEE 学术论文级别的方法论验证",
+      "url": "https://github.com/antoinezambelli/forge"
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-21T00:17:00.000Z",
+  "collectedAt": "2026-05-22T08:20:00+08:00",
   "candidates": [
     {
-      "title": "Nvidia Earnings Beat Expectations, Unveils $80 Billion Share Buyback",
-      "source": "Investing.com",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/spacex-files-long-awaited-ipo-creating-a-fresh-ai-play-4702657",
+      "title": "Anthropic Is Reportedly About To Have Its First Profitable Quarter",
+      "source": "Engadget (citing The Wall Street Journal / Bloomberg)",
+      "sourceUrl": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
       "score": 5,
-      "keyData": "Nvidia Q1 2027 财季业绩超预期; 宣布 800 亿美元股票回购计划; AI 芯片需求持续井喷",
-      "angle": "Nvidia 依然是 AI 基础设施的绝对霸主，业绩与回购双利好表明管理层对 AI 需求持续性极度自信。可结合 Jensen Huang 近期演讲谈 AI 算力未来。"
+      "keyData": "On track for $10.9B revenue for quarter ending June 2026; $559M operating profit expected — first profitable quarter since 2021 founding; double the revenue of Q1 2026",
+      "angle": "Anthropic 从「非营利理想」到商业盈利的关键转折，同时该公司近期因拒绝按五角大楼要求移除AI护栏而与国防部公开对峙，盈利与原则之间的张力"
     },
     {
-      "title": "Google I/O 2026: Gemini Spark 个人 AI 代理、Gemini 3.5 Flash 模型、Samsung 智能眼镜齐发",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/google-io-gemini-developers-conference-a984e6756032dc4af260f8fa27e8f4a9",
+      "title": "Starbucks Abandons Its AI Inventory Tool After Only Nine Months",
+      "source": "Engadget (citing Reuters)",
+      "sourceUrl": "https://www.engadget.com/2179029/starbucks-abandons-its-ai-inventory-tool-after-only-nine-months/",
       "score": 5,
-      "keyData": "Gemini 3.5 Flash（前沿智能+行动能力）; Gemini Spark（24/7 个人 AI 代理，下周上线 Ultra 订阅）; Gemini Omni 世界模型; Samsung Intelligent Eyewear 智能眼镜（今秋上市）; Google AI Ultra 计划定价 $100/月",
-      "angle": "Google I/O 2026 是 Google 史上最具野心的 AI 发布会。Gemini Spark 标志着 AI 从「对话工具」到「自主代理」的范式转变。可与 Apple、Meta 的 AI 策略做对比分析。"
+      "keyData": "2025年9月部署，2026年5月即被废弃，仅存活9个月；AI库存系统频繁标错和漏数商品，如混淆不同种类牛奶",
+      "angle": "企业AI落地的反面教材——星巴克砸钱搞的AI库存工具9个月就翻车，这是一个关于「大公司AI泡沫破裂」的典型案例分析"
     },
     {
-      "title": "SpaceX 正式提交 IPO 申请，披露巨额 AI 基础设施支出",
-      "source": "The Economic Times / Reuters",
-      "sourceUrl": "https://m.economictimes.com/news/international/us/spacex-ipo-filing-massive-ai-spending-future-ambitions-and-starlink-expansion-will-spacexs-awaited-ipo-make-elon-musk-the-worlds-first-trillionaire/amp_articleshow/131237585.cms",
-      "score": 5,
-      "keyData": "SpaceX 已与 xAI 合并; 目标估值 $1.75 万亿; IPO 文件揭示大规模 AI 与 Starlink 支出; Musk 有望成为全球首位万亿富翁",
-      "angle": "SpaceX IPO 是 2026 年资本市场最大事件。文件首次公开 SpaceX-AI 融合战略的全貌，从 GPU 租赁交易到 Starlink+AI 协同，是理解 Musk 帝国 AI 布局的关键窗口。"
-    },
-    {
-      "title": "GPT-5.5 和 Claude Mythos 双双突破 AI 自主网络攻击基准，英国 AI 安全研究所确认",
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/",
+      "title": "AMD Prices Its Ryzen AI Halo PC At $3,999, Unveils Ryzen AI Max 400 Chips",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/",
       "score": 4,
-      "keyData": "GPT-5.5 在专家级网络任务得分 71.4%; Claude Mythos 得分 68.6%; 两个模型均完成端到端自主网络攻击模拟; UK AISI 确认两者均远超 2024 年以来的翻倍增长趋势",
-      "angle": "AI 安全进入新纪元——前沿模型已具备真实自主攻击能力。OpenAI 推出 Daybreak 计划应对，白宫召集 AI 公司讨论管控方案。可从 AI 治理与国家安全交叉点切入。"
+      "keyData": "Ryzen AI Halo起价$3999，6月预购；对比NVIDIA DGX Spark（$4699）；AI Max+ Pro 495为16核/5.2GHz/55 TOPS NPU，支持最高192GB统一内存和160GB GPU显存",
+      "angle": "AMD vs NVIDIA的AI桌面硬件之战进入新回合，x64生态兼容性+更大内存是AMD杀手锏，开发者本地AI训推的性价比之争"
     },
     {
-      "title": "Meta 在路易斯安那州建造全球最大 AI 数据中心之一",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/bloomberg-tech-5-20-2026-video",
+      "title": "Google Won't Rest Until Gemini Is Everywhere In Your Home",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
       "score": 4,
-      "keyData": "Meta 计划裁员 8,000 人（全球员工 10%）以增加 AI 投资; 同时在 Louisiana 建设世界级 AI 设施",
-      "angle": "Meta 的 AI 转型呈现「此消彼长」格局——一边裁员削减成本，一边重金投入 AI 基建。可与 Google、Microsoft 的 AI CapEx 竞赛做横向对比，分析科技巨头 AI 军备竞赛的可持续性。"
+      "keyData": "Gemini for Home升级为'全栈AI'方案，向硬件合作伙伴开放参考设计（SOC/传感器/麦克风）；Google Home Premium订阅$10/月起，含Home Brief和模拟在家的高级威慑功能",
+      "angle": "Google正在把Gemini从手机/网页推向物理世界——智能家居的「AI操作系统」之战，软硬一体+订阅模式的布局逻辑"
+    },
+    {
+      "title": "Anker Debuts Soundcore Liberty 5 Pro Earbuds With Its Thus AI Chip",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2177672/anker-debuts-soundcore-liberty-5-pro-earbuds-with-its-thus-ai-chip/",
+      "score": 3,
+      "keyData": "首款搭载自研Thus AI芯片的耳机；8麦克风+2骨传导传感器，ANC 4.0每秒采样384000次，AI语音指令响应<1秒，ANC性能为前代2倍",
+      "angle": "消费电子品牌开始自研AI芯片，Anker从充电配件向「AI+音频」转型的战略信号，AI正从云端下沉到耳机芯片"
     }
   ]
 }
