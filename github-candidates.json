@@ -1,35 +1,36 @@
 {
-  "collectedAt": "2026-05-22T00:15:00.000Z",
+  "collectedAt": "2026-05-23T08:15:00+08:00",
+  "source": "https://github.com/trending",
   "candidates": [
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "stars": 142923,
-      "why": "将 Andrej Karpathy 对 LLM 编码陷阱的观察提炼为单个 CLAUDE.md 文件，显著改善 Claude Code 行为——减少过度抽象、死代码、不必要的复杂性",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "stars": 22112,
-      "why": "Anthropic 官方维护的 Claude Code 插件市场，汇集高质量社区插件，支持一键安装，覆盖 GitHub、Figma、Context7 等主流工具集成",
-      "url": "https://github.com/anthropics/claude-plugins-official"
-    },
-    {
       "name": "colbymchenry/codegraph",
-      "stars": 13051,
-      "why": "预索引的代码知识图谱，为 Claude Code/Codex/Cursor/OpenCode 提供零文件读取的代码探索能力——25,874 文件的项目 4 分钟内完成索引，6 次 explore 调用替代数百次文件读取",
+      "stars": 16505,
+      "why": "预索引的代码知识图谱，专为 Claude Code/Codex/Cursor 等 AI 编程工具设计——减少 token 消耗和 tool call 次数，100% 本地运行，今日 +3,684 star 暴增",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
-      "name": "dotnet/skills",
-      "stars": 2147,
-      "why": "微软 .NET 团队官方出品的 AI 编码代理技能集，为 .NET 开发者提供 ASP.NET Core、Entity Framework、MAUI 等场景的标准化代理指令",
-      "url": "https://github.com/dotnet/skills"
+      "name": "anthropics/claude-plugins-official",
+      "stars": 24901,
+      "why": "Anthropic 官方维护的高质量 Claude Code 插件目录，生态标准化的关键一步，今日 +2,549 star",
+      "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
-      "name": "antoinezambelli/forge",
-      "stars": 1474,
-      "why": "Python 自托管 LLM 工具调用与多步代理工作流框架，今日增长 449 星势头强劲，附带 IEEE 学术论文级别的方法论验证",
-      "url": "https://github.com/antoinezambelli/forge"
+      "name": "Lum1104/Understand-Anything",
+      "stars": 18546,
+      "why": "将任意代码/知识库转化为可交互、可搜索、可提问的知识图谱，支持 Claude Code/Codex/Cursor/Gemini CLI 等主流 AI 编程工具，今日 +1,393 star",
+      "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 40967,
+      "why": "Chrome 官方推出的 DevTools MCP Server，让 AI 编程助手直接操控浏览器调试，生态意义重大，今日 +501 star",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "stars": 6334,
+      "why": "终端 AI 编程 Agent——hash 锚定编辑、LSP 集成、Python/浏览器/子 agent 支持，轻量但五脏俱全，今日 +457 star",
+      "url": "https://github.com/can1357/oh-my-pi"
     }
   ]
 }
