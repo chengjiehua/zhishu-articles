@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-22T08:20:00+08:00",
+  "collectedAt": "2026-05-24T09:58:00+08:00",
   "candidates": [
     {
-      "title": "Anthropic Is Reportedly About To Have Its First Profitable Quarter",
-      "source": "Engadget (citing The Wall Street Journal / Bloomberg)",
-      "sourceUrl": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
+      "title": "NVIDIA黄仁勋提前抵台，称Vera Rubin平台"史无前例"，将成台湾史上最大规模产品导入",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com.tw/tech",
       "score": 5,
-      "keyData": "On track for $10.9B revenue for quarter ending June 2026; $559M operating profit expected — first profitable quarter since 2021 founding; double the revenue of Q1 2026",
-      "angle": "Anthropic 从「非营利理想」到商业盈利的关键转折，同时该公司近期因拒绝按五角大楼要求移除AI护栏而与国防部公开对峙，盈利与原则之间的张力"
+      "keyData": "黄仁勋5月23日抵台，出席NVIDIA「Meet-a-Claw」开发者大会；Vera Rubin平台被视为NVIDIA史上最成功的一代产品",
+      "angle": "Computex 2026前夕黄仁勋亲自站台，Vera Rubin量产在即，台链供应链迎来新一波AI服务器升级周期，可分析对台厂的具体利好及产业链估值影响"
     },
     {
-      "title": "Starbucks Abandons Its AI Inventory Tool After Only Nine Months",
-      "source": "Engadget (citing Reuters)",
-      "sourceUrl": "https://www.engadget.com/2179029/starbucks-abandons-its-ai-inventory-tool-after-only-nine-months/",
+      "title": "2026全球人工智能技术大会（GAITC 2026）5月23-24日在杭州举行，以"交叉、融合、相生、共赢"为主题",
+      "source": "中国人工智能学会（CAAI）",
+      "sourceUrl": "https://www.caai.cn/site/content/7716.html",
+      "score": 4,
+      "keyData": "5月23-25日杭州，连续第六年举办，设互动体验展，面向全球征集AI企业参展",
+      "angle": "国内AI学术与产业年度盛会，可关注大会发布的国产AI最新进展、产学研融合案例，以及AI展会经济的回暖信号"
+    },
+    {
+      "title": "OpenAI宣布向日本政府与企业提供GPT-5.5-Cyber网络安全专用AI模型",
+      "source": "Kyodo News / 朝日新闻",
+      "sourceUrl": "https://english.kyodonews.net/articles/-/76467",
       "score": 5,
-      "keyData": "2025年9月部署，2026年5月即被废弃，仅存活9个月；AI库存系统频繁标错和漏数商品，如混淆不同种类牛奶",
-      "angle": "企业AI落地的反面教材——星巴克砸钱搞的AI库存工具9个月就翻车，这是一个关于「大公司AI泡沫破裂」的典型案例分析"
+      "keyData": "5月21日公布；前NSA局长、现OpenAI董事Paul Nakasone牵头与日本政府协商；模型此前已向美国政府和部分企业提供",
+      "angle": "这是AI大模型首次以国家网络安全合作为场景的对外部署，标志AI安全从企业内部走向地缘政治合作，可分析对AI主权与国际AI治理格局的影响"
     },
     {
-      "title": "AMD Prices Its Ryzen AI Halo PC At $3,999, Unveils Ryzen AI Max 400 Chips",
-      "source": "Engadget",
-      "sourceUrl": "https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/",
+      "title": "AMD CEO苏姿丰：AI需求"绝对是真的"，现在只是棒球9局比赛的第3局",
+      "source": "DIGITIMES",
+      "sourceUrl": "https://www.digitimes.com.tw/tech",
       "score": 4,
-      "keyData": "Ryzen AI Halo起价$3999，6月预购；对比NVIDIA DGX Spark（$4699）；AI Max+ Pro 495为16核/5.2GHz/55 TOPS NPU，支持最高192GB统一内存和160GB GPU显存",
-      "angle": "AMD vs NVIDIA的AI桌面硬件之战进入新回合，x64生态兼容性+更大内存是AMD杀手锏，开发者本地AI训推的性价比之争"
+      "keyData": "苏姿丰5月22日公开表态，回应AI泡沫疑虑，强调全球AI基础设施需求正以远超市场预期的速度成长",
+      "angle": "AMD掌门人正面回应AI泡沫论，可结合NVIDIA、AMD、Intel三家的最新财报与股价走势，分析AI芯片赛道的中长期确定性"
     },
     {
-      "title": "Google Won't Rest Until Gemini Is Everywhere In Your Home",
-      "source": "Engadget",
-      "sourceUrl": "https://www.engadget.com/2174228/google-wont-rest-until-gemini-is-everywhere-in-your-home/",
-      "score": 4,
-      "keyData": "Gemini for Home升级为'全栈AI'方案，向硬件合作伙伴开放参考设计（SOC/传感器/麦克风）；Google Home Premium订阅$10/月起，含Home Brief和模拟在家的高级威慑功能",
-      "angle": "Google正在把Gemini从手机/网页推向物理世界——智能家居的「AI操作系统」之战，软硬一体+订阅模式的布局逻辑"
-    },
-    {
-      "title": "Anker Debuts Soundcore Liberty 5 Pro Earbuds With Its Thus AI Chip",
-      "source": "Engadget",
-      "sourceUrl": "https://www.engadget.com/2177672/anker-debuts-soundcore-liberty-5-pro-earbuds-with-its-thus-ai-chip/",
+      "title": "AI NEWS本周汇总：Meta与LinkedIn掀起新一轮裁员，"Tokenmaxxing"成AI圈新趋势",
+      "source": "Medium / David Akpovi",
+      "sourceUrl": "https://medium.com/@davidakpovi/ai-news-week-of-may-18-to-may-24-2026-6cb451ecb766",
       "score": 3,
-      "keyData": "首款搭载自研Thus AI芯片的耳机；8麦克风+2骨传导传感器，ANC 4.0每秒采样384000次，AI语音指令响应<1秒，ANC性能为前代2倍",
-      "angle": "消费电子品牌开始自研AI芯片，Anker从充电配件向「AI+音频」转型的战略信号，AI正从云端下沉到耳机芯片"
+      "keyData": "5月18-24日周报；Meta和LinkedIn宣布新一轮AI相关裁员；"Tokenmaxxing"（最大化token使用效率）成为开发者社区新趋势",
+      "angle": "AI替代人力从个案变成行业趋势，可延续Cloudflare裁员1100人、Meta裁8000人的叙事线，讨论AI效率提升与就业冲击的平衡"
     }
   ]
 }
