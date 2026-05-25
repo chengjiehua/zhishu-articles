@@ -1,36 +1,35 @@
 {
-  "collectedAt": "2026-05-23T08:15:00+08:00",
-  "source": "https://github.com/trending",
+  "collectedAt": "2026-05-25T12:00:00.000Z",
   "candidates": [
     {
-      "name": "colbymchenry/codegraph",
-      "stars": 16505,
-      "why": "预索引的代码知识图谱，专为 Claude Code/Codex/Cursor 等 AI 编程工具设计——减少 token 消耗和 tool call 次数，100% 本地运行，今日 +3,684 star 暴增",
-      "url": "https://github.com/colbymchenry/codegraph"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "stars": 24901,
-      "why": "Anthropic 官方维护的高质量 Claude Code 插件目录，生态标准化的关键一步，今日 +2,549 star",
-      "url": "https://github.com/anthropics/claude-plugins-official"
+      "name": "multica-ai/andrej-karpathy-skills",
+      "stars": 5200,
+      "why": "Andrej Karpathy的LLM编码最佳实践凝聚成一个CLAUDE.md文件，AI辅助编程的'道'而非'术'",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "name": "Lum1104/Understand-Anything",
-      "stars": 18546,
-      "why": "将任意代码/知识库转化为可交互、可搜索、可提问的知识图谱，支持 Claude Code/Codex/Cursor/Gemini CLI 等主流 AI 编程工具，今日 +1,393 star",
+      "stars": 18500,
+      "why": "将任意代码/知识库转化为交互式知识图谱，支持Claude Code/Codex/Cursor等主流AI编码工具",
       "url": "https://github.com/Lum1104/Understand-Anything"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "stars": 40967,
-      "why": "Chrome 官方推出的 DevTools MCP Server，让 AI 编程助手直接操控浏览器调试，生态意义重大，今日 +501 star",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "stars": 8900,
+      "why": "从零构建AI工程体系——学习、构建、交付的完整路径，适合AI工程师系统学习",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
-      "name": "can1357/oh-my-pi",
-      "stars": 6334,
-      "why": "终端 AI 编程 Agent——hash 锚定编辑、LSP 集成、Python/浏览器/子 agent 支持，轻量但五脏俱全，今日 +457 star",
-      "url": "https://github.com/can1357/oh-my-pi"
+      "name": "anthropics/knowledge-work-plugins",
+      "stars": 4200,
+      "why": "Anthropic官方发布的知识工作者Claude插件集，定义了AI辅助知识工作的新范式",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "stars": 6100,
+      "why": "自托管AI虚拟伴侣，支持实时语音/Minecraft/Factorio互动，技术上实现了多模态AI的有趣应用",
+      "url": "https://github.com/moeru-ai/airi"
     }
   ]
 }

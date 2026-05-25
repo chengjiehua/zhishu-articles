@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-24T09:58:00+08:00",
+  "collectedAt": "2026-05-25T12:00:00.000Z",
   "candidates": [
     {
-      "title": "NVIDIA黄仁勋提前抵台，称Vera Rubin平台"史无前例"，将成台湾史上最大规模产品导入",
-      "source": "DIGITIMES",
-      "sourceUrl": "https://www.digitimes.com.tw/tech",
+      "title": "Anthropic首次实现季度盈利：Q2净利润$559M，营收$10.9B",
+      "source": "aitoolsrecap.com",
+      "sourceUrl": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
       "score": 5,
-      "keyData": "黄仁勋5月23日抵台，出席NVIDIA「Meet-a-Claw」开发者大会；Vera Rubin平台被视为NVIDIA史上最成功的一代产品",
-      "angle": "Computex 2026前夕黄仁勋亲自站台，Vera Rubin量产在即，台链供应链迎来新一波AI服务器升级周期，可分析对台厂的具体利好及产业链估值影响"
+      "keyData": "Anthropic Q2 2026营收$10.9B，净利润$559M，比自身预期提前两年实现盈利",
+      "angle": "AI行业从烧钱模式转向盈利验证——VC时代终结，公开市场时代开启"
     },
     {
-      "title": "2026全球人工智能技术大会（GAITC 2026）5月23-24日在杭州举行，以"交叉、融合、相生、共赢"为主题",
-      "source": "中国人工智能学会（CAAI）",
-      "sourceUrl": "https://www.caai.cn/site/content/7716.html",
-      "score": 4,
-      "keyData": "5月23-25日杭州，连续第六年举办，设互动体验展，面向全球征集AI企业参展",
-      "angle": "国内AI学术与产业年度盛会，可关注大会发布的国产AI最新进展、产学研融合案例，以及AI展会经济的回暖信号"
-    },
-    {
-      "title": "OpenAI宣布向日本政府与企业提供GPT-5.5-Cyber网络安全专用AI模型",
-      "source": "Kyodo News / 朝日新闻",
-      "sourceUrl": "https://english.kyodonews.net/articles/-/76467",
+      "title": "OpenAI提交IPO申请，估值$852B-$1T",
+      "source": "buildfastwithai.com",
+      "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-may-24-2026",
       "score": 5,
-      "keyData": "5月21日公布；前NSA局长、现OpenAI董事Paul Nakasone牵头与日本政府协商；模型此前已向美国政府和部分企业提供",
-      "angle": "这是AI大模型首次以国家网络安全合作为场景的对外部署，标志AI安全从企业内部走向地缘政治合作，可分析对AI主权与国际AI治理格局的影响"
+      "keyData": "OpenAI估值$852B-$1T，ChatGPT周活用户2.3亿+，GPT-5.5和Codex平台为增长核心",
+      "angle": "AI行业最大IPO即将到来，三大AI公司（SpaceX/OpenAI/Anthropic）半年内相继上市"
     },
     {
-      "title": "AMD CEO苏姿丰：AI需求"绝对是真的"，现在只是棒球9局比赛的第3局",
-      "source": "DIGITIMES",
-      "sourceUrl": "https://www.digitimes.com.tw/tech",
+      "title": "Google Cloud Next 25：AI Hypercomputer + Gemini企业代理平台",
+      "source": "Google Blog",
+      "sourceUrl": "https://blog.google/intl/zh-tw/products/cloud/google-cloud-launches-groundbreaking-ai-innovations-at-next25",
       "score": 4,
-      "keyData": "苏姿丰5月22日公开表态，回应AI泡沫疑虑，强调全球AI基础设施需求正以远超市场预期的速度成长",
-      "angle": "AMD掌门人正面回应AI泡沫论，可结合NVIDIA、AMD、Intel三家的最新财报与股价走势，分析AI芯片赛道的中长期确定性"
+      "keyData": "NVIDIA B200/GB200 GPU、Gemini 2.0 Flash每美元智能比GPT-4o高24倍",
+      "angle": "Google以AI优化的全栈基础设施反击，从芯片到模型到代理平台全线升级"
     },
     {
-      "title": "AI NEWS本周汇总：Meta与LinkedIn掀起新一轮裁员，"Tokenmaxxing"成AI圈新趋势",
-      "source": "Medium / David Akpovi",
-      "sourceUrl": "https://medium.com/@davidakpovi/ai-news-week-of-may-18-to-may-24-2026-6cb451ecb766",
+      "title": "2025北京科技周：Q系列人形机器人、脑机接口等18项AI成果公开展出",
+      "source": "北京市科委/中关村管委会",
+      "sourceUrl": "https://kw.beijing.gov.cn/ztzl/2025nbjkjz/202505/t20250525_4097289.html",
       "score": 3,
-      "keyData": "5月18-24日周报；Meta和LinkedIn宣布新一轮AI相关裁员；"Tokenmaxxing"（最大化token使用效率）成为开发者社区新趋势",
-      "angle": "AI替代人力从个案变成行业趋势，可延续Cloudflare裁员1100人、Meta裁8000人的叙事线，讨论AI效率提升与就业冲击的平衡"
+      "keyData": "北京上线128款大模型全国第一，Q系列机器人单臂负载5kg毫米级操作精度",
+      "angle": "中国AI从实验室走向大众——国家队科技成果的科普化实践"
+    },
+    {
+      "title": "欧盟AI法案执行倒计时：各国须在8月2日前建立AI监管沙盒",
+      "source": "EU AI Act",
+      "sourceUrl": "https://artificialintelligenceact.eu",
+      "score": 3,
+      "keyData": "2026年8月2日为各国AI监管沙盒建立截止日，GPAI模型提供商指南已发布",
+      "angle": "全球AI监管进入实质执行阶段，合规成本将成为AI企业的隐性门槛"
     }
   ]
 }
