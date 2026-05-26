@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-25T12:00:00.000Z",
+  "collectedAt": "2026-05-26T17:25:00+08:00",
   "candidates": [
     {
-      "title": "Anthropic首次实现季度盈利：Q2净利润$559M，营收$10.9B",
-      "source": "aitoolsrecap.com",
-      "sourceUrl": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+      "title": "美光警告：AI算力狂飙，内存短缺将延续至2026年后",
+      "source": "新浪财经 / 快科技",
+      "sourceUrl": "https://finance.sina.com.cn/stock/t/2026-05-26/doc-inhzevaq2961358.shtml",
       "score": 5,
-      "keyData": "Anthropic Q2 2026营收$10.9B，净利润$559M，比自身预期提前两年实现盈利",
-      "angle": "AI行业从烧钱模式转向盈利验证——VC时代终结，公开市场时代开启"
+      "keyData": "美光在第54届全球TMT大会上明确HBM、DRAM、NAND产能受限；摩根大通同步发布看多报告",
+      "angle": "AI基础设施瓶颈——算力需求远超存储产能，半导体供应链压力向全行业传导，COMPUTEX 2026前夕的信号"
     },
     {
-      "title": "OpenAI提交IPO申请，估值$852B-$1T",
-      "source": "buildfastwithai.com",
-      "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-may-24-2026",
+      "title": "英国AISI警告：前沿AI网络攻击能力每4个月翻倍",
+      "source": "Sky News / Air Street Press",
+      "sourceUrl": "https://press.airstreet.com/p/state-of-ai-may-2026",
+      "keyData": "Anthropic Claude Mythos在32步企业网络攻防模拟中10次完成3次全链路入侵，专家任务成功率73%；GPT-5.5紧随其后达71.4%；AISI评估攻击能力翻倍周期从7个月加速至4个月",
       "score": 5,
-      "keyData": "OpenAI估值$852B-$1T，ChatGPT周活用户2.3亿+，GPT-5.5和Codex平台为增长核心",
-      "angle": "AI行业最大IPO即将到来，三大AI公司（SpaceX/OpenAI/Anthropic）半年内相继上市"
+      "angle": "AI安全拐点——从'会不会'到'有多快'，传统网络安全厂商面临生存危机，XDR平台亟需AI原生架构转型"
     },
     {
-      "title": "Google Cloud Next 25：AI Hypercomputer + Gemini企业代理平台",
-      "source": "Google Blog",
-      "sourceUrl": "https://blog.google/intl/zh-tw/products/cloud/google-cloud-launches-groundbreaking-ai-innovations-at-next25",
+      "title": "DeepSeek V4正式发布：百万token上下文、成本仅为GPT-5.5三分之一",
+      "source": "MindStudio / LinkedIn",
+      "sourceUrl": "https://www.mindstudio.ai/blog/deepseek-v4-launch-specs-open-weight-2026",
+      "keyData": "开源权重、100万token上下文窗口、输入$1.74/百万token（GPT-5.5为$5）、输出$3.48/百万token（GPT-5.5为$30）；数学和Q&A基准接近GPT-5.4水平",
       "score": 4,
-      "keyData": "NVIDIA B200/GB200 GPU、Gemini 2.0 Flash每美元智能比GPT-4o高24倍",
-      "angle": "Google以AI优化的全栈基础设施反击，从芯片到模型到代理平台全线升级"
+      "angle": "中国开源模型逼近前沿——价格破坏者改写企业AI部署成本结构，开源生态vs闭源巨头的格局演变"
     },
     {
-      "title": "2025北京科技周：Q系列人形机器人、脑机接口等18项AI成果公开展出",
-      "source": "北京市科委/中关村管委会",
-      "sourceUrl": "https://kw.beijing.gov.cn/ztzl/2025nbjkjz/202505/t20250525_4097289.html",
-      "score": 3,
-      "keyData": "北京上线128款大模型全国第一，Q系列机器人单臂负载5kg毫米级操作精度",
-      "angle": "中国AI从实验室走向大众——国家队科技成果的科普化实践"
+      "title": "科技公司AI替代人工潮：Snap裁员1000人（16%）、Meta裁员8000人（10%），CEO公开归因AI",
+      "source": "Business Insider / Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/snap-block-and-other-billion-dollar-companies-that-cut-hundreds-of-jobs-in-2026-and-openly-blamed-ai/articleshow/130323199.cms",
+      "keyData": "Snap裁减16%全球员工（约1000人）+关闭300+空缺岗位，CFO同步离职；Meta 5月20日裁员8000人（近10%）；Sam Altman批评此为'AI washing'",
+      "score": 4,
+      "angle": "AI替代的真实代价——大厂用AI效率叙事包装成本削减，'AI Arbitrage'成为华尔街新宠，人力资源vs算法速度的结构性冲突"
     },
     {
-      "title": "欧盟AI法案执行倒计时：各国须在8月2日前建立AI监管沙盒",
-      "source": "EU AI Act",
-      "sourceUrl": "https://artificialintelligenceact.eu",
+      "title": "Anthropic再获500亿美元融资，AI资本竞赛进入新量级",
+      "source": "Air Street Press - State of AI: May 2026",
+      "sourceUrl": "https://press.airstreet.com/p/state-of-ai-may-2026",
+      "keyData": "Anthropic累计融资达500亿美元级别；同时Profluent与礼来达成22.5亿美元AI制药合作；Sereact获1.1亿美元B轮融资",
       "score": 3,
-      "keyData": "2026年8月2日为各国AI监管沙盒建立截止日，GPAI模型提供商指南已发布",
-      "angle": "全球AI监管进入实质执行阶段，合规成本将成为AI企业的隐性门槛"
+      "angle": "AI军备竞赛的资本维度——从数十亿到千亿级，前沿模型训练成本推动行业集中度快速提升，生物医药AI成资本新出口"
     }
   ]
 }
