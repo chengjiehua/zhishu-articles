@@ -1,72 +1,79 @@
-# 今日新闻
+# 白痴指数 · 午间 GitHub 热点
 
-## 💻 GitHub 精选
-
-### 🥇 Understand-Anything — 让代码长出自己的说明书
-
-⭐ 33,657 | 🚀 +5,604 今日 | [github.com/Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
-
-如果你接过别人的代码库，你一定懂那种「这项目到底怎么跑」的痛苦。Understand-Anything 做的事情很简单也很天才：**把任意代码库变成一张可交互的知识图谱**。不是静态的架构图，而是可以搜索节点、展开依赖、直接向某个模块提问的动态图。
-
-支持 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等几乎所有主流 AI 编程工具。它的核心理念写在 README 第一行：「Graphs that teach > graphs that impress」——教你的图，胜过炫技的图。
-
-**为什么今天爆了？** AI 编程工具遍地开花，但「理解现有代码」仍然是最大痛点。这个项目填补了 AI writes code 和 AI understands code 之间的鸿沟。
-
-**技术栈**：TypeScript + 图可视化引擎  
-**适合**：接手遗留系统的开发者、需要快速 onboarding 的团队、开源项目维护者
+2026年5月26日
 
 ---
 
-### 🥈 AI Engineering From Scratch — 从零开始造 AI
-
-⭐ 19,817 | 🚀 +3,154 今日 | [github.com/rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-
-「Learn it. Build it. Ship it for others.」——一句话概括了这个项目的野心。它不是一个「学 AI」的教程汇总，而是一套从理论到实践的 **AI 工程全链路指南**：模型训练、推理部署、RAG 系统、Agent 构建、生产环境优化。
-
-在 2026 年 AI 工具泛滥的背景下，这个项目的定位非常精准：**不是教你怎么用 AI，而是教你怎么造 AI 产品**。今天 3,154 个 star 的增长说明市场对「AI 建造者」的需求远大于「AI 使用者」。
-
-**技术栈**：Python + PyTorch、LangChain、向量数据库等  
-**适合**：想从 AI 消费者转型为 AI 生产者的工程师
+今天 GitHub 上值得看的东西不多。但有几件事让白痴指数降了。我跟你们说。
 
 ---
 
-### 🥉 Anthropic Cybersecurity Skills — AI Agent 的安全技能包
+### pi-mono — 终于有人把这件事做了
 
-⭐ 9,667 | 🚀 +1,004 今日 | [github.com/mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+43,900 star。这个数字应该翻十倍。
 
-当 AI Agent 可以自主执行代码、访问网络、操作系统文件时，安全就不再是「锦上添花」而是「生死线」。这个项目是目前 **最大的开源 AI Agent 网络安全技能库**——754 个结构化技能，覆盖 26 个安全领域。
+问题很简单：你做一个 AI Agent，需要 CLI、需要统一 API、需要 TUI、需要 Web UI、需要 Slack bot、需要部署到 GPU。目前的做法？装六个不同的库，每个库用自己的接口，每次升级互相踩脚。
 
-更厉害的是框架映射：每个技能同时对齐 **MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF** 五大标准。v1.2.0 刚新增了 MITRE ATLAS v5.5 的 AI/ML 对抗攻击防御——模型投毒、提示注入、供应链攻击、Agent 越狱，全覆盖。
+这是典型的白痴指数过高。你的时间花在拼积木上，而不是造东西上。
 
-**技术栈**：Python + agentskills.io 标准  
-**适合**：安全工程师、Agent 平台开发者、企业 AI 安全审计
+pi-mono 把所有这些放进了一个仓库。一个统一 API——Anthropic、OpenAI、Google、Groq，全在一个接口后面。想要 CLI？有了。想自己写一个 200 行的定制版？也能。这是垂直整合，不是拼积木。
 
----
-
-### 🏅 Anthropic Knowledge Work Plugins — Claude 的办公全家桶
-
-⭐ 16,277 | 🚀 +1,441 今日 | [github.com/anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-Anthropic 官方开源的 Claude Cowork 插件库。如果说 Cybersecurity Skills 是给 Agent 穿的铠甲，Knowledge Work Plugins 就是给 Agent 配的工具箱——文档处理、数据分析、知识管理，面向白领知识工作场景。
-
-Anthropic 亲自下场开源办公插件，战略意图很明确：**让 Claude 成为企业办公的默认 AI 入口**。与其让第三方开发参差不齐的插件，不如官方定义标准。
-
-**技术栈**：Python + Claude API  
-**适合**：企业 AI 办公场景搭建者、Claude 重度用户
+物理定律说：减少接口数量 = 减少故障点数量 = 加快迭代速度。这么简单的事，大部分人就是不做。
 
 ---
 
-### 🏅 Claude-Mem — 让 AI 拥有「记住你」的能力
+### claude-mem — 不该存在的需求
 
-⭐ 78,281 | 🚀 +319 今日 | [github.com/thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+78,200 star。这么多人在 star 这个项目，说明一个什么问题？
 
-78K star 的超级项目，解决的是 AI Agent 最核心的痛点：**跨会话记忆**。每次对话结束，AI 就忘了你是谁。Claude-Mem 捕获 Agent 的所有操作、用 AI 压缩成结构化记忆、在后续会话中自动注入相关上下文。
+AI Agent 的默认状态是失忆。
 
-支持 Claude Code、OpenClaw、Codex、Gemini、Copilot、OpenCode 等 20+ 平台。78K star 的数字说明了一切——**持久记忆是 AI Agent 从「玩具」到「工具」的最后一块拼图**。
+每次新对话，它不认识你，不知道你上次做到哪了，不记得你喜欢的代码风格。claude-mem 做的事很简单：记录 Agent 的所有操作，压缩，在下一次对话里注入相关上下文。
 
-**技术栈**：TypeScript + AI 压缩/检索  
-**适合**：所有重度 AI Agent 用户
+但这里有个问题不该问 Claude。应该问我们自己：**为什么 2026 年了，Agent 还需要第三方插件来记住你？**
+
+这是五步算法的第一步——质疑需求的存在性。Agent 记忆不应该是一个「功能」，它应该是操作系统级别的基础设施。就像火箭不需要「发射之后记得自己轨道在哪」的插件。
+
+claude-mem 做得好。但它解决的问题本来不该存在。
 
 ---
 
-> 编辑：威廉明娜 🐱 | 2026年5月26日 晚·午间补档
+### claude-context — 零上下文浪费
+
+10,600 star。Milvus/Zilliz 出的 MCP server。一句话：把你的代码库索引到向量数据库，Agent 每次只检索相关代码，而不是把整个仓库塞进上下文窗口。
+
+算一笔账。一个 10 万行的代码库。Agent 每次对话把所有文件塞进窗口——你的 API 费用等于把整个代码库给模型读了一遍。白痴指数等于窗口大小除以实际需要的代码量。
+
+claude-context 把这个指数压到了接近 1。只检索你需要的代码。窗口不炸。账单不炸。
+
+这是那种「为什么没人早点做」的东西。但 Engineering 101：任何让你只处理必要信息的东西，都是第一性原理的胜利。
+
+---
+
+### Understand-Anything — 代码不是文本
+
+33,600 star。把代码变成交互式知识图谱。
+
+大部分人说「我在看代码」。实际上他们在 grep。他们在一堆文件里跳来跳去，靠记文件和文件之间的关系来理解架构。
+
+这不对。代码不是线性文本。代码是图。一个函数调用另一个函数，一个类继承另一个类，一个模块依赖另一个模块。你为什么要用线性工具去理解图结构？
+
+Understand-Anything 把代码渲染成图。你可以搜索节点。展开依赖。问某个模块做什么。
+
+这是第一性原理：代码的结构是图 → 理解代码应该用图工具。就这么简单。
+
+---
+
+### 最后说一句
+
+今天这五个项目有一个共同点：**它们解决的都不是新问题。它们解决的是「为什么 2026 年了这个问题还存在」的问题。**
+
+Agent 为什么失忆？代码为什么用 grep 看而不是图？Agent 工具为什么分散在六个库里？上下文为什么要把整个仓库塞进去？
+
+这些问题没有一个是物理极限。它们都是架构债务。
+
+物理定律是唯一真正的约束。其他一切都是建议。包括「这就是行业惯例」。
+
+---
+
+> *「如果有东西的白痴指数超过 10，你就该自己造。」*

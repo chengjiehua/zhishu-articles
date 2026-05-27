@@ -1,45 +1,45 @@
 {
-  "collectedAt": "2026-05-26T17:25:00+08:00",
+  "collectedAt": "2026-05-26T20:59:00+08:00",
   "candidates": [
     {
-      "title": "美光警告：AI算力狂飙，内存短缺将延续至2026年后",
-      "source": "新浪财经 / 快科技",
-      "sourceUrl": "https://finance.sina.com.cn/stock/t/2026-05-26/doc-inhzevaq2961358.shtml",
-      "score": 5,
-      "keyData": "美光在第54届全球TMT大会上明确HBM、DRAM、NAND产能受限；摩根大通同步发布看多报告",
-      "angle": "AI基础设施瓶颈——算力需求远超存储产能，半导体供应链压力向全行业传导，COMPUTEX 2026前夕的信号"
+      "title": "华为发布「LogicFolding」芯片突破：声称无需EUV即可在2031年量产1.4nm芯片",
+      "source": "Reuters / Bloomberg / Taipei Times",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/huawei-proposes-new-path-chip-development-amid-us-sanctions-2026-05-25",
+      "score": 9,
+      "keyData": "华为半导体负责人何庭波5月25日宣布「LogicFolding」架构和「Her's Law」（Tau Scaling Law），计划2031年量产1.4nm芯片；TSMC此前宣布2028年量产同制程。目前华为与TSMC有约5年差距。华为声称已用该定律6年内设计了381颗芯片。中国芯片股当日大涨。",
+      "angle": "【地缘科技】美国制裁反噬？华为以「自研法则」绕过ASML EUV光刻机——这是真突破还是画饼？对标摩尔定律的「Her's Law」能否站住脚？"
     },
     {
-      "title": "英国AISI警告：前沿AI网络攻击能力每4个月翻倍",
-      "source": "Sky News / Air Street Press",
-      "sourceUrl": "https://press.airstreet.com/p/state-of-ai-may-2026",
-      "keyData": "Anthropic Claude Mythos在32步企业网络攻防模拟中10次完成3次全链路入侵，专家任务成功率73%；GPT-5.5紧随其后达71.4%；AISI评估攻击能力翻倍周期从7个月加速至4个月",
-      "score": 5,
-      "angle": "AI安全拐点——从'会不会'到'有多快'，传统网络安全厂商面临生存危机，XDR平台亟需AI原生架构转型"
+      "title": "教宗良十四世发布史上首份AI通谕「Magnifica Humanitas」：42300字警告AI对人性尊严的威胁",
+      "source": "New York Times / Vatican News",
+      "sourceUrl": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html",
+      "score": 8,
+      "keyData": "5月25日发布，全文42300字，标题意为「在人工智能时代捍卫人类尊严」。上月已成立AI伦理委员会。通谕中引用《指环王》甘道夫名言。良十四世上任第二天即表态将应对AI风险。",
+      "angle": "【AI伦理】天主教会正式入局AI治理——42300字通谕说了什么？从「甘道夫」到「人类尊严」，宗教力量如何塑造全球AI政策？"
     },
     {
-      "title": "DeepSeek V4正式发布：百万token上下文、成本仅为GPT-5.5三分之一",
-      "source": "MindStudio / LinkedIn",
-      "sourceUrl": "https://www.mindstudio.ai/blog/deepseek-v4-launch-specs-open-weight-2026",
-      "keyData": "开源权重、100万token上下文窗口、输入$1.74/百万token（GPT-5.5为$5）、输出$3.48/百万token（GPT-5.5为$30）；数学和Q&A基准接近GPT-5.4水平",
-      "score": 4,
-      "angle": "中国开源模型逼近前沿——价格破坏者改写企业AI部署成本结构，开源生态vs闭源巨头的格局演变"
+      "title": "Anthropic 估值冲向9500亿美元：若完成将超越OpenAI成为全球最值钱AI公司",
+      "source": "New York Times / Reuters",
+      "sourceUrl": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+      "score": 8,
+      "keyData": "Anthropic正谈判以$950B估值融资，较2月$380B估值涨2.5倍。CEO Dario Amodei称年化收入已达$300亿，今年可能增长80倍。若完成将超越OpenAI（$852B）。Google计划投资$400亿、Amazon承诺$1000亿云计算合作。",
+      "angle": "【AI泡沫还是新常态？】不到一年从$380B到$950B——Anthropic估值膨胀背后：$300亿年收入跑得起吗？AI公司的「万亿俱乐部」已在门口。"
     },
     {
-      "title": "科技公司AI替代人工潮：Snap裁员1000人（16%）、Meta裁员8000人（10%），CEO公开归因AI",
-      "source": "Business Insider / Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/snap-block-and-other-billion-dollar-companies-that-cut-hundreds-of-jobs-in-2026-and-openly-blamed-ai/articleshow/130323199.cms",
-      "keyData": "Snap裁减16%全球员工（约1000人）+关闭300+空缺岗位，CFO同步离职；Meta 5月20日裁员8000人（近10%）；Sam Altman批评此为'AI washing'",
-      "score": 4,
-      "angle": "AI替代的真实代价——大厂用AI效率叙事包装成本削减，'AI Arbitrage'成为华尔街新宠，人力资源vs算法速度的结构性冲突"
+      "title": "汇丰CEO对全体员工喊话「别抗拒AI」：银行大规模裁员已启动",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence",
+      "score": 7,
+      "keyData": "5月23日汇丰CEO Georges Elhedery向全球员工表示「不要对抗AI」，承认银行已开始AI驱动的岗位裁减。渣打银行CEO同日为裁员引发的「不安」道歉。",
+      "angle": "【AI与就业】银行业掌舵人不再委婉——「别抗拒AI」成为高管对员工的直接喊话。金融业AI替代潮到来，白领岗位首当其冲？"
     },
     {
-      "title": "Anthropic再获500亿美元融资，AI资本竞赛进入新量级",
-      "source": "Air Street Press - State of AI: May 2026",
-      "sourceUrl": "https://press.airstreet.com/p/state-of-ai-may-2026",
-      "keyData": "Anthropic累计融资达500亿美元级别；同时Profluent与礼来达成22.5亿美元AI制药合作；Sereact获1.1亿美元B轮融资",
-      "score": 3,
-      "angle": "AI军备竞赛的资本维度——从数十亿到千亿级，前沿模型训练成本推动行业集中度快速提升，生物医药AI成资本新出口"
+      "title": "OpenAI秘密提交IPO申请 并向YC初创公司提供$200万AI代币换股权",
+      "source": "TechStartups / BuildFastWithAI",
+      "sourceUrl": "https://techstartups.com/2026/05/21/top-tech-news-today-may-21-2026",
+      "score": 7,
+      "keyData": "5月21日消息：OpenAI已秘密提交IPO文件，同时向Y Combinator初创公司提供$200万AI代币额度换取股权。最新估值$852B（4月）。Nvidia同期预测Q2营收$910亿，力推新一代Vera数据中心芯片。",
+      "angle": "【AI商业化】OpenAI上市在即+「代币换股权」新玩法——从非营利到$852B上市公司，Sam Altman的终极变现路径？"
     }
   ]
 }
