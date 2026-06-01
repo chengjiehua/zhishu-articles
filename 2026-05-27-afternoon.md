@@ -1,11 +1,11 @@
 ---
 date: 2026-05-27
 time: 午间
-category: 白痴指数 · 午间 GitHub 热点
+category: 第一性原理读GitHub · 午间热点
 tags: [github-trending, musk-perspective, first-principles]
 ---
 
-# 白痴指数 · 午间 GitHub 热点
+# 第一性原理读GitHub · 午间热点
 
 > 2026年5月27日 · 知著证孤
 

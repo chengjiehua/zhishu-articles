@@ -1,5 +1,5 @@
 ---
-title: "白痴指数 · 午间 GitHub 热点 (2026-05-30)"
+title: "第一性原理读GitHub · 午间热点 (2026-05-30)"
 date: 2026-05-30
 category: "daily"
 tags: ["GitHub", "开源", "马斯克", "第一性原理", "白痴指数"]
